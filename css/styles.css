@@ -1,0 +1,30 @@
+body{
+margin:0px;
+}
+
+ul{
+padding-left:0;
+display:flex;
+flex-wrap:nowrap;
+list-style-type:none;
+justify-content: space-evenly;
+}
+
+img{
+width:250px;
+height:165px;
+}
+
+html{
+background-color:orange;
+}
+
+h1{
+	text-align:center;
+	margin:50px;
+}
+
+a{
+display:block;
+}
+

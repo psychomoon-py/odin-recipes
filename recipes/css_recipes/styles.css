@@ -37,30 +37,15 @@ animation:bgcolor 2s infinite linear;
   }
 }
 
-a{
+.img{
 text-align:center;
 }
 
-ul{
-padding-left:0;
-display:flex;
-flex-wrap:nowrap;
-list-style-type:none;
-justify-content: space-evenly;
-}
-
 img{
-width:250px;
-height:165px;
+width:400px;
 }
 
 
-h1{
-	text-align:center;
-	margin:50px;
+.header{
+text-align:center;
 }
-
-a{
-display:block;
-}
-
